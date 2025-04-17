@@ -1,7 +1,7 @@
 Welcome ALL!🥳
 
-I am will be showing a majoirty of projects in which I have completed! I am still new to this and am studying through SNHU for my Undergraduate degree in Computer Science!📚
-- I've done projects using Python (PyCharm) , C++, Java (Eclipse), and R (RStudio) 💻
+I am will be showing a majoirty of projects in which I have completed! I am studying through SNHU for my Undergraduate degree in Computer Science!📚
+- I've done projects using Python (PyCharm) , C++, Adriod Studio, Java (Eclipse), and R (RStudio) 💻
 - I’m currently working with SQL in creating and manipulating databases🗄️
 - You can get ahold of me via email: olexist3@gmail.com
 
