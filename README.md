@@ -1,7 +1,8 @@
 Welcome ALL!🥳
 
-I am will be showing a majoirty of projects in which I have completed! I am studying through SNHU for my Undergraduate degree in Computer Science!📚
-- I've done projects using Python (PyCharm) , C++, Adriod Studio, Java (Eclipse), and R (RStudio) 💻
+I am will be showing a majoirty of projects in which I have completed! 
+SNHU Alumni SNHU - Bachelors in Computer Science!📚
+- I've done projects utilizing Python (PyCharm) , C++, Adriod Studio, Java (Eclipse), R (RStudio), and more 💻
 - I’m currently migrating a DASH project utilizing CRUD to R using a Shiny Framework 🗄️
 - You can get ahold of me via email: olexist3@gmail.com
 
